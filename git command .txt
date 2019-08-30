@@ -7,3 +7,5 @@ git commit -m "__message__" - commits the changes
 git remote add origin __github_url___ - adds as a remote place called 'origin' that points to your github_url
 git push - pushes your latest changes to github
 git clone __github_url__ - clones a github repository to your local working directory
+
+________________ change 2 _________________
